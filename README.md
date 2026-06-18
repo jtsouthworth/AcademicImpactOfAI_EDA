@@ -1,4 +1,4 @@
-# AcademicImpactOfAI_EDA
+# Academic Impacts of AI: An Exploratory Data Analysis
 
 This project aims to look at the impacts of AI on student academic performance. The dataset for this project was found on Kaggle <https://www.kaggle.com/datasets/bca5b9b9ebe556aade6ba0035cec6c627a2f8adaac329dd5544833e8633573c5>
 
