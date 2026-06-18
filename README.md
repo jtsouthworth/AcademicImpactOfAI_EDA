@@ -33,7 +33,7 @@ In the dataset, there were no true non-AI users, despite what the students might
 <img width="640" height="480" alt="Distribution of Users" src="https://github.com/user-attachments/assets/8b61269c-f642-4a9b-85ff-3b92b20b04e8" />
 <img width="640" height="480" alt="Distribution of Users by Usage Intensity" src="https://github.com/user-attachments/assets/34e60c41-04bf-420e-b3df-8f71b6865740" />
 
-Key Finding: AI use can affect a student's academic outcomes.
+### Key Finding: AI use can affect a student's academic outcomes.
 
 Moderate use, focusing on homework, doubt solving, and exam prep, appears to be the best strategy for utilizing AI to help improve Academic gains.
 <img width="1200" height="600" alt="Improvement Rate by Usage Purpose" src="https://github.com/user-attachments/assets/e0adf709-55e6-444b-9449-edb6ce9f3513" />
